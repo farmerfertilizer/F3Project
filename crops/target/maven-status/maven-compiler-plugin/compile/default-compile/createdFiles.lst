@@ -1,0 +1,5 @@
+com\crops\CropsApplication.class
+com\crops\controller\CropsController.class
+com\crops\service\CropsService.class
+com\crops\model\Crops.class
+com\crops\repository\CropsRepository.class

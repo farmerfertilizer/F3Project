@@ -1,0 +1,5 @@
+com\fertilizers\service\FertilizerService.class
+com\fertilizers\FertilizersApplication.class
+com\fertilizers\controller\FertilizerController.class
+com\fertilizers\repository\FertlizerRepository.class
+com\fertilizers\entity\Fertilizer.class

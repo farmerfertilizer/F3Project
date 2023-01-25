@@ -1,0 +1,7 @@
+com\user\service\UserService.class
+com\user\UserApplication.class
+com\user\controller\UserController.class
+com\user\model\Customer.class
+com\user\model\Address.class
+com\user\model\User.class
+com\user\repository\UserRepository.class

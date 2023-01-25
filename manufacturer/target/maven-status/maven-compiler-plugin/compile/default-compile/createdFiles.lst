@@ -1,0 +1,5 @@
+com\manufacturer\controller\ManufacturerController.class
+com\manufacturer\service\ManufacturerService.class
+com\manufacturer\repository\ManufacturerRepository.class
+com\manufacturer\ManufacturerApplication.class
+com\manufacturer\entity\Manufacturer.class
